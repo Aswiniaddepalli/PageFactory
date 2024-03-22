@@ -1,0 +1,3 @@
+pages\LoginPage.class
+pages\SearchHotel.class
+testcases\LoginTestCases.class
