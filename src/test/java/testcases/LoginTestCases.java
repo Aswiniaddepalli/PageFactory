@@ -15,5 +15,6 @@ public class LoginTestCases {
 	  obj.username("ashwiniaddepalli");
 	  obj.password("Y765N8");
 	  obj.Login();
+	  System.out.println("The Test is done");
   }
 }
